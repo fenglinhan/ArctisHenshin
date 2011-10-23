@@ -1,0 +1,8 @@
+this project is to integrate the Henshin project with Arctis environment.
+
+first the user need to install henshin and Arctis in eclipse environment.
+
+second, download this plugin and install it in the same environment,
+it should be able to export the Arctis building block to Henshin, 
+
+and used it for henshin transformation.
