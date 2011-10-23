@@ -1,0 +1,1 @@
+make changes according to project arctisWave to update with new Arctis verion 506
